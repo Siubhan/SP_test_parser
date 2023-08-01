@@ -1,0 +1,3280 @@
+[
+    {
+        "item_name": "Мила Дент",
+        "item_url": "https://www.vl.ru/miladentvl",
+        "item_email": "miladentstom@mail.ru",
+        "item_phone": [
+            "+7 (423) 200-99-07"
+        ],
+        "item_address": [
+            "район \"Фадеева\", ул. Фадеева, 14"
+        ],
+        "item_site": "http://www.miladentvl.ru"
+    },
+    {
+        "item_name": "Доктор Стом",
+        "item_url": "https://www.vl.ru/doktor-stom-vl",
+        "item_email": "doctorstom_vl@mail.ru",
+        "item_phone": [
+            "+7 914 666-90-40",
+            "+7 (423) 205-37-40"
+        ],
+        "item_address": [
+            "район \"Столетие\", пр-т 100-летия Владивостока, 31"
+        ],
+        "item_site": "http://www.doctorstomvl.ru"
+    },
+    {
+        "item_name": "Дентал Эффект",
+        "item_url": "https://www.vl.ru/dental-effekt",
+        "item_email": "stoma_dental@mail.ru",
+        "item_phone": [
+            "+7 902 067-62-52"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Океанский, 74А"
+        ],
+        "item_site": "http://www.dental-effect.ru"
+    },
+    {
+        "item_name": "Лайф",
+        "item_url": "https://www.vl.ru/stom-lajf-ooo-lajf-detsk2",
+        "item_email": "stomlife@bk.ru",
+        "item_phone": [
+            "+7 (423) 266-94-94"
+        ],
+        "item_address": [
+            "район \"Столетие\", пр-т 100-летия Владивостока, 20"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Клиника Современной Стоматологии",
+        "item_url": "https://www.vl.ru/klinika-sovremennoj-stomatologii",
+        "item_email": "modernstomvl@gmail.com",
+        "item_phone": [
+            "+7 (423) 206-00-17",
+            "+7 (423) 205-36-25",
+            "+7 984 195-36-25"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Енисейская, 7/1"
+        ],
+        "item_site": "http://www.stom25.ru"
+    },
+    {
+        "item_name": "Центр профессиональной стоматологии",
+        "item_url": "https://www.vl.ru/centr-professionalnoj-stomatologi",
+        "item_email": "centrstomvl@gmail.com",
+        "item_phone": [
+            "+7 (423) 206-03-29",
+            "+7 (423) 280-08-88"
+        ],
+        "item_address": [
+            "район \"Некрасовская\", ул. Гоголя, 30"
+        ],
+        "item_site": "https://centre-profstom.ru"
+    },
+    {
+        "item_name": "Кедр",
+        "item_url": "https://www.vl.ru/kedr-stomatologicheskaya-klinika",
+        "item_email": "kedrstom@mail.ru",
+        "item_phone": [
+            "+7 (423) 260-54-40",
+            "+7 (423) 273-34-35",
+            "+7 914 703-34-35"
+        ],
+        "item_address": [
+            "район \"Эгершельд\", ул. Верхнепортовая, 9"
+        ],
+        "item_site": "https://www.kedrstom.ru"
+    },
+    {
+        "item_name": "Кристалл",
+        "item_url": "https://www.vl.ru/kristall-stomatologiya",
+        "item_email": "st_kristall@mail.ru",
+        "item_phone": [
+            "+7 (423) 279-04-24",
+            "+7 (423) 279-04-54"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Кирова, 25А",
+            "район \"Вторая речка\", ул. Кирова, 21В"
+        ],
+        "item_site": "http://кристалл25.рф"
+    },
+    {
+        "item_name": "Дубровский",
+        "item_url": "https://www.vl.ru/dubrovskij",
+        "item_email": "alfa-ctom@mail.ru",
+        "item_phone": [
+            "+7 914 707-16-88",
+            "+7 (423) 277-16-88"
+        ],
+        "item_address": [
+            "район \"Тихая\", ул. Сахалинская, 11"
+        ],
+        "item_site": "https://dubrovskii.pro"
+    },
+    {
+        "item_name": "Доктор Ничман Е. Н.",
+        "item_url": "https://www.vl.ru/doktor-nichman-e.n",
+        "item_email": "siniza01@mail.ru",
+        "item_phone": [
+            "+7 924 731-39-95",
+            "+7 (423) 201-39-95"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Давыдова, 22А"
+        ],
+        "item_site": "http://cosmedentdv.ru"
+    },
+    {
+        "item_name": "Сали-ота",
+        "item_url": "https://www.vl.ru/sali-ota-ooo-stomatologicheskij-komplex",
+        "item_email": "sali-ota@mail.ru",
+        "item_phone": [
+            "+7 908 448-51-06",
+            "+7 (423) 258-51-06",
+            "+7 (423) 229-71-34"
+        ],
+        "item_address": [
+            "район \"Луговая\", ул. Спортивная, 2"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "DV-Dent",
+        "item_url": "https://www.vl.ru/dv-dent",
+        "item_email": "2806809@mail.ru",
+        "item_phone": [
+            "+7 (423) 280-68-09",
+            "+7 (423) 220-00-52"
+        ],
+        "item_address": [
+            "район \"Третья рабочая\", ул. Жигура, 26"
+        ],
+        "item_site": "http://дв-дент.рф"
+    },
+    {
+        "item_name": "Экспресс Имплантация",
+        "item_url": "https://www.vl.ru/express-implantaciya",
+        "item_email": "express-implant@yandex.ru",
+        "item_phone": [
+            "+7 (423) 239-37-37",
+            "+7 962 333-48-58",
+            "+7 994 021-65-51"
+        ],
+        "item_address": [
+            "район \"Луговая\", ул. Горийская, 15",
+            "район \"Столетие\", пр-т 100-летия Владивостока, 40",
+            "район \"Центр\", ул. Алеутская, 45"
+        ],
+        "item_site": "https://экспрессимплантация.рф"
+    },
+    {
+        "item_name": "Korea medcenter",
+        "item_url": "https://www.vl.ru/korea-med",
+        "item_email": "koreanmedicine@mail.ru",
+        "item_phone": [
+            "+7 (423) 280-20-63",
+            "+7 (423) 222-30-80",
+            "+7 994 108-75-75"
+        ],
+        "item_address": [
+            "район \"Толстого (Буссе)\", пр-т Красного Знамени, 94"
+        ],
+        "item_site": "http://koreamedcenter.ru"
+    },
+    {
+        "item_name": "Аквамарин Дент",
+        "item_url": "https://www.vl.ru/www.akvamarindent.ru",
+        "item_email": "akvamarin-dent@inbox.ru",
+        "item_phone": [
+            "+7 (423) 280-83-03"
+        ],
+        "item_address": [
+            "район \"БАМ\", ул. Ульяновская, 7"
+        ],
+        "item_site": "http://akvamarin-dent.ru"
+    },
+    {
+        "item_name": "Smile",
+        "item_url": "https://www.vl.ru/smajl-l-ooo1",
+        "item_email": "smilekompany@mail.ru",
+        "item_phone": [
+            "+7 (423) 251-05-09",
+            "+7 (423) 241-11-52",
+            "+7 (423) 253-78-87 , детское отделение",
+            "+7 (423) 232-05-51",
+            "+7 (423) 294-45-90"
+        ],
+        "item_address": [
+            "район \"Эгершельд\", ул. Бестужева, 15",
+            "район \"Вторая речка\", пр-т 100-летия Владивостока, 100"
+        ],
+        "item_site": "http://www.smile-vl.ru"
+    },
+    {
+        "item_name": "Приоритет",
+        "item_url": "https://www.vl.ru/prioritetstom",
+        "item_email": "prioritetvl@mail.ru",
+        "item_phone": [
+            "+7 (423) 279-05-22",
+            "+7 914 333-01-02"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Калинина, 295"
+        ],
+        "item_site": "https://www.prioritetvl.ru"
+    },
+    {
+        "item_name": "Никодент",
+        "item_url": "https://www.vl.ru/nikodent-ooo",
+        "item_email": "info@nikodent.ru",
+        "item_phone": [
+            "+7 (423) 226-70-00",
+            "+7 (423) 226-57-27"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Пушкинская, 109"
+        ],
+        "item_site": "http://www.nikodent.ru"
+    },
+    {
+        "item_name": "Мой стоматолог",
+        "item_url": "https://www.vl.ru/moi-stomatolog",
+        "item_email": "2273770@mail.ru",
+        "item_phone": [
+            "+7 (423) 227-37-70"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Окатовая, 1"
+        ],
+        "item_site": "http://мой-стом.com"
+    },
+    {
+        "item_name": "Тридент Плюс",
+        "item_url": "https://www.vl.ru/trident-plyus",
+        "item_email": "trident_plus@mail.ru",
+        "item_phone": [
+            "+7 (423) 227-07-01",
+            "+7 994 006-65-97"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Черемуховая, 22"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "А-Стом",
+        "item_url": "https://www.vl.ru/a-stom-vl",
+        "item_email": "a_stom@inbox.ru",
+        "item_phone": [
+            "+7 (423) 295-72-95"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Авроровская, 24"
+        ],
+        "item_site": "https://a-stomvld.ru"
+    },
+    {
+        "item_name": "Гарант",
+        "item_url": "https://www.vl.ru/garant-stom",
+        "item_email": "mn240582@yandex.ru",
+        "item_phone": [
+            "+7 (423) 253-18-81",
+            "+7 (423) 293-14-41",
+            "+7 902 485-92-07"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Кирова, 45"
+        ],
+        "item_site": "http://www.moigarant.ru"
+    },
+    {
+        "item_name": "Мастер Дент+",
+        "item_url": "https://www.vl.ru/master-dentplus",
+        "item_email": null,
+        "item_phone": [
+            "+7 908 440-26-95, для пациентов с острой болью в ночное время",
+            "+7 908 443-89-12, для пациентов с острой болью",
+            "+7 (423) 293-19-99",
+            "+7 (423) 250-26-95"
+        ],
+        "item_address": [
+            "район \"64, 71 микрорайоны\", ул. Нейбута, 47",
+            "район \"Баляева\", ул. Котельникова, 13"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Эстелайф",
+        "item_url": "https://www.vl.ru/estelajf",
+        "item_email": "estelaif@yandex.ru",
+        "item_phone": [
+            "+7 952 080-49-72",
+            "+7 914 704-13-00"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Острякова, 9А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Альбеа-Дент",
+        "item_url": "https://www.vl.ru/albea-dent",
+        "item_email": "albea-dent@mail.ru",
+        "item_phone": [
+            "+7 (423) 200-84-11",
+            "+7 (423) 269-55-49"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Окатовая, 60"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Алико",
+        "item_url": "https://www.vl.ru/aliko",
+        "item_email": null,
+        "item_phone": [
+            "+7 950 295-53-54"
+        ],
+        "item_address": [
+            "район \"Некрасовская\", ул. Круговая 2-я, 12"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Клиника доктора Кремешного",
+        "item_url": "https://www.vl.ru/klinika-doktora-kremeshnogo",
+        "item_email": "kdk.dental@yandex.ru",
+        "item_phone": [
+            "+7 999 444-97-18",
+            "+7 (423) 279-03-44"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Пологая, 53А"
+        ],
+        "item_site": "http://kdk.dental"
+    },
+    {
+        "item_name": "Кристалл",
+        "item_url": "https://www.vl.ru/zubotehnicheskaya-laboratoriya-kristall",
+        "item_email": "kristall_labo@mail.ru",
+        "item_phone": [
+            "+7 908 446-92-82"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Кирова, 25В"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Лаура Плюс",
+        "item_url": "https://www.vl.ru/laura-plyus",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 273-17-43",
+            "+7 (423) 244-04-94"
+        ],
+        "item_address": [
+            "район \"Баляева\", ул. Адмирала Юмашева, 14А"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Диадент",
+        "item_url": "https://www.vl.ru/diadent",
+        "item_email": "avaleria1973@yandex.ru",
+        "item_phone": [
+            "+7 994 004-20-04"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Пологая, 54А"
+        ],
+        "item_site": "https://diadentvl.ru"
+    },
+    {
+        "item_name": "Дентлор",
+        "item_url": "https://www.vl.ru/dentlor-ooo-prometej-medicinskij-centr",
+        "item_email": "dentlor@mail.ru",
+        "item_phone": [
+            "+7 (423) 260-57-04",
+            "+7 (423) 259-61-14",
+            "+7 908 449-61-14"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Калинина, 133"
+        ],
+        "item_site": "http://www.dentlor.ru"
+    },
+    {
+        "item_name": "Дентал-Авеню Плюс",
+        "item_url": "https://www.vl.ru/dental-avenyu",
+        "item_email": "floriz@yandex.ru",
+        "item_phone": [
+            "+7 (423) 226-60-65"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Океанский, 90"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Медис",
+        "item_url": "https://www.vl.ru/medis",
+        "item_email": "medisdent@gmail.com",
+        "item_phone": [
+            "+7 (423) 267-30-00"
+        ],
+        "item_address": [
+            "район \"Столетие\", ул. Днепровская, 36"
+        ],
+        "item_site": "http://medisdent.ru"
+    },
+    {
+        "item_name": "Мастерская Улыбки Плюс",
+        "item_url": "https://www.vl.ru/masterskaya-ulybki-plyus",
+        "item_email": "smileworkshop@mail.ru",
+        "item_phone": [
+            "+7 914 703-35-59"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Океанский, 92"
+        ],
+        "item_site": "http://sw-dent.ru"
+    },
+    {
+        "item_name": "ID Clinic",
+        "item_url": "https://www.vl.ru/id-clinic",
+        "item_email": "identshur@gmail.com",
+        "item_phone": [
+            "+7 908 448-71-58",
+            "+7 (423) 258-71-58"
+        ],
+        "item_address": [
+            "район \"Некрасовская\", ул. Круговая 2-я, 12"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Генциана Плюс",
+        "item_url": "https://www.vl.ru/genciana-plyus-ooo",
+        "item_email": "gentsianaplus@yandex.ru",
+        "item_phone": [
+            "+7 (423) 225-99-91"
+        ],
+        "item_address": [
+            "район \"Тихая\", ул. Беляева, 2"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "UniverStom",
+        "item_url": "https://www.vl.ru/universtom",
+        "item_email": "universtomvl@yandex.ru",
+        "item_phone": [
+            "+7 951 024-25-25",
+            "+7 908 994-35-35",
+            "+7 (423) 294-35-35"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Кутузова, 3А"
+        ],
+        "item_site": "https://universtom-vl.ru"
+    },
+    {
+        "item_name": "Виктория",
+        "item_url": "https://www.vl.ru/viktoriya-stomatologiya",
+        "item_email": "rvt78@mail.ru",
+        "item_phone": [
+            "+7 (423) 245-21-02",
+            "+7 (423) 259-98-28",
+            "+7 964 437-13-50",
+            "+7 908 449-98-28"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Краева, 8А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "ДантистЪ",
+        "item_url": "https://www.vl.ru/dantist111",
+        "item_email": "dantist-650151@mail.ru",
+        "item_phone": [
+            "+7 (423) 265-01-51"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Енисейская, 7/1"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Краевая стоматологическая поликлиника",
+        "item_url": "https://www.vl.ru/kraevaya-guzdetsk",
+        "item_email": "stomirina@mail.ru",
+        "item_phone": [
+            "+7 (423) 243-26-10, зам. главного врача",
+            "+7 (423) 226-01-75, отдел кадров",
+            "+7 (423) 220-50-14, отдел закупок",
+            "+7 (423) 222-85-98, бухгалтерия",
+            "+7 (423) 220-50-09, касса",
+            "+7 (423) 244-09-65 , регистратура",
+            "+7 (423) 244-09-79 , дежурный администратор",
+            "+7 (423) 263-67-49 , регистратура",
+            "+7 (423) 231-49-57 , регистратура",
+            "+7 (423) 225-57-81 , регистратура",
+            "+7 (423) 225-55-01 , дежурный администратор",
+            "+7 (423) 243-28-73 , регистратура",
+            "+7 (423) 243-28-52 , дежурный администратор",
+            "+7 (423) 222-86-17 , регистратура",
+            "+7 (423) 226-10-85 , дежурный администратор"
+        ],
+        "item_address": [
+            "район \"64, 71 микрорайоны\", ул. Адмирала Кузнецова, 64А",
+            "район \"Борисенко\", ул. Борисенко, 31",
+            "район \"Вторая речка\", ул. Чапаева, 14",
+            "район \"Трудовая\", ул. 50 лет ВЛКСМ, 17",
+            "район \"Центр\", ул. Суханова, 1",
+            "район \"Центр\", ул. Уборевича, 14"
+        ],
+        "item_site": "https://ksp-dv.ru"
+    },
+    {
+        "item_name": "Империал Плюс",
+        "item_url": "https://www.vl.ru/imperial-plyus",
+        "item_email": "kleed05@mail.ru",
+        "item_phone": [
+            "+7 (423) 209-00-12"
+        ],
+        "item_address": [
+            "район \"БАМ\", ул. Карбышева, 22"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Блеск",
+        "item_url": "https://www.vl.ru/st-blesk",
+        "item_email": "blesk2003@mail.ru",
+        "item_phone": [
+            "+7 (423) 245-04-84",
+            "+7 (423) 244-63-83"
+        ],
+        "item_address": [
+            "район \"Третья рабочая\", пр-т Народный, 19"
+        ],
+        "item_site": "http://www.blesk-st.ru"
+    },
+    {
+        "item_name": "Панадента",
+        "item_url": "https://www.vl.ru/panadenta-ooo",
+        "item_email": "panadenta@inbox.ru",
+        "item_phone": [
+            "+7 (423) 244-35-35",
+            "+7 (423) 268-01-10"
+        ],
+        "item_address": [
+            "район \"Луговая\", ул. Луговая, 69"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Стом-класс",
+        "item_url": "https://www.vl.ru/stom-klass",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 237-53-77",
+            "+7 (423) 299-32-67 , директор"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Магнитогорская, 18"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Пионер",
+        "item_url": "https://www.vl.ru/pioner-vl",
+        "item_email": "pionerdent@mail.ru",
+        "item_phone": [
+            "+7 (423) 295-07-57",
+            "+7 (423) 243-36-35"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Прапорщика Комарова, 31А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Dental-Studio",
+        "item_url": "https://www.vl.ru/dental-studio-ooolechenie-protezirovanie",
+        "item_email": "info@dental-s.su",
+        "item_phone": [
+            "+7 (423) 220-02-66"
+        ],
+        "item_address": [
+            "район \"Третья рабочая\", ул. Аллилуева, 14",
+            "район \"Чуркин\", ул. Запорожская, 77",
+            "район \"Чуркин\", ул. Калинина, 39"
+        ],
+        "item_site": "http://www.dental-s.su"
+    },
+    {
+        "item_name": "Вистерия",
+        "item_url": "https://www.vl.ru/visteriya-stomatologiya",
+        "item_email": "vistastom2014@mail.ru",
+        "item_phone": [
+            "+7 (423) 200-45-11",
+            "+7 (423) 229-33-55",
+            "+7 924 730-45-11"
+        ],
+        "item_address": [
+            "район \"Фадеева\", ул. Фадеева, 12"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Бьюти Дент",
+        "item_url": "https://www.vl.ru/randevu-stom",
+        "item_email": "beautydentvl@gmail.com",
+        "item_phone": [
+            "+7 904 627-32-68",
+            "+7 914 668-09-99"
+        ],
+        "item_address": [
+            "район \"Луговая\", ул. Ивановская, 6/4",
+            "район \"Центр\", пр-т Океанский, 35"
+        ],
+        "item_site": "http://125.beautydent-vdk.ru"
+    },
+    {
+        "item_name": "Лотос",
+        "item_url": "https://www.vl.ru/lotos-regionalnyj-medicinskij-centr-ano",
+        "item_email": "lotospk@mail.ru",
+        "item_phone": [
+            "+7 (423) 240-40-69",
+            "+7 914 790-26-59",
+            "+7 (423) 239-39-09"
+        ],
+        "item_address": [
+            "район \"Некрасовская\", ул. Гоголя, 41"
+        ],
+        "item_site": "http://www.lotosvl.ru"
+    },
+    {
+        "item_name": "Студия современной стоматологии",
+        "item_url": "https://www.vl.ru/studiya-sovremennoj-stomatologii",
+        "item_email": null,
+        "item_phone": [
+            "+7 (423) 290-82-87",
+            "+7 914 705-09-00"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Пушкинская, 52"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Дентонекс",
+        "item_url": "https://www.vl.ru/dentoneks-ooo",
+        "item_email": "dentoneks@mail.ru",
+        "item_phone": [
+            "+7 (423) 224-36-26",
+            "+7 (423) 232-55-78"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Русская, 66"
+        ],
+        "item_site": "http://www.dentoneks.ru"
+    },
+    {
+        "item_name": "Level Up",
+        "item_url": "https://www.vl.ru/level-up-stom",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 266-21-69"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Светланская, 87В"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Стомос",
+        "item_url": "https://www.vl.ru/profi-dent",
+        "item_email": "stomoss@mail.ru",
+        "item_phone": [
+            "+7 902 482-32-52"
+        ],
+        "item_address": [
+            "район \"Некрасовская\", ул. Некрасовская, 96"
+        ],
+        "item_site": "https://stomos-vl.ru"
+    },
+    {
+        "item_name": "Колот",
+        "item_url": "https://www.vl.ru/kolot-ooo",
+        "item_email": "Info@kolot.ru",
+        "item_phone": [
+            "+7 (423) 242-38-31",
+            "+7 (423) 242-02-02"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Острякова, 1"
+        ],
+        "item_site": "http://www.kolot.ru"
+    },
+    {
+        "item_name": "Идеал",
+        "item_url": "https://www.vl.ru/ideal-stomatologicheskij-kabinet42",
+        "item_email": "ideal@lenta.ru",
+        "item_phone": [
+            "+7 (423) 290-90-23",
+            "+7 902 505-90-23"
+        ],
+        "item_address": [
+            "район \"64, 71 микрорайоны\", ул. Нейбута, 31"
+        ],
+        "item_site": "http://vladivostom.ru"
+    },
+    {
+        "item_name": "Ортодонтикс групп",
+        "item_url": "https://www.vl.ru/stomatologicheskaja-klinika-ortodontix-grup",
+        "item_email": "info@ortodontics.ru",
+        "item_phone": [
+            "+7 (423) 241-37-43",
+            "+7 (423) 251-39-00"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Захарова, 5",
+            "район \"Эгершельд\", ул. Станюковича, 52"
+        ],
+        "item_site": "http://www.ortodontics.ru"
+    },
+    {
+        "item_name": "Dental home",
+        "item_url": "https://www.vl.ru/dental-home",
+        "item_email": "kerri0976@yandex.ru",
+        "item_phone": [
+            "+7 (423) 201-21-71",
+            "+7 924 731-21-71"
+        ],
+        "item_address": [
+            "район \"Столетие\", пр-т 100-летия Владивостока, 30"
+        ],
+        "item_site": "http://dental.net.ru"
+    },
+    {
+        "item_name": "Эндемика",
+        "item_url": "https://www.vl.ru/endemika",
+        "item_email": "endemika-dent@mail.ru",
+        "item_phone": [
+            "+7 (423) 244-00-07"
+        ],
+        "item_address": [
+            "район \"64, 71 микрорайоны\", ул. Адмирала Кузнецова, 64А"
+        ],
+        "item_site": "http://endemika-dent.ru"
+    },
+    {
+        "item_name": "Аванстом",
+        "item_url": "https://www.vl.ru/avanstom",
+        "item_email": "avanstom.vl@yandex.ru",
+        "item_phone": [
+            "+7 950 289-50-89",
+            "+7 (423) 291-69-21"
+        ],
+        "item_address": [
+            "район \"Снеговая падь\", ул. Адмирала Горшкова, 40"
+        ],
+        "item_site": "http://avanstom-vladivostok.ru"
+    },
+    {
+        "item_name": "Dentium",
+        "item_url": "https://www.vl.ru/dentium",
+        "item_email": "stomdentium@mail.ru",
+        "item_phone": [
+            "+7 (423) 298-88-16",
+            "+7 (423) 263-75-14"
+        ],
+        "item_address": [
+            "район \"Борисенко\", ул. Строительная 2-я, 12"
+        ],
+        "item_site": "http://www.dentium-vl.ru"
+    },
+    {
+        "item_name": "Звезда",
+        "item_url": "https://www.vl.ru/zvezda-stomatologicheskaya-klinika",
+        "item_email": "zvezda28.72@mail.ru",
+        "item_phone": [
+            "+7 (423) 263-45-45",
+            "+7 924 263-45-45"
+        ],
+        "item_address": [
+            "район \"Борисенко\", ул. Борисенко, 28"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Elistratov Dental Group",
+        "item_url": "https://www.vl.ru/elistratov-dental-group",
+        "item_email": "2413012@mail.ru",
+        "item_phone": [
+            "+7 (423) 241-30-12"
+        ],
+        "item_address": [
+            "район \"Эгершельд\", ул. Станюковича, 3"
+        ],
+        "item_site": "http://www.drelistratov.ru"
+    },
+    {
+        "item_name": "George Group",
+        "item_url": "https://www.vl.ru/george-dental-group",
+        "item_email": "dental@g-george.ru",
+        "item_phone": [
+            "+7 (423) 265-05-05, офис",
+            "+7 800 222-10-01, единая справочная",
+            "+7 (423) 226-10-01"
+        ],
+        "item_address": [
+            "район \"Центр\", пр-т Океанский, 41",
+            "район \"Центр\", ул. Адмирала Фокина, 29",
+            "район \"Толстого (Буссе)\", пр-т Красного Знамени, 84",
+            "район \"Центр\", ул. Светланская, 157",
+            "район \"Столетие\", пр-т 100-летия Владивостока, 30",
+            "район \"Трудовая\", ул. Вилкова, 9"
+        ],
+        "item_site": "https://g-george.ru"
+    },
+    {
+        "item_name": "Ультрадент",
+        "item_url": "https://www.vl.ru/ultradent",
+        "item_email": "ultradent1@mail.ru",
+        "item_phone": [
+            "+7 (423) 220-97-98",
+            "+7 (423) 260-03-33 , регистратура",
+            "+7 (423) 260-88-60",
+            "+7 (423) 263-60-68",
+            "+7 (423) 263-84-85 , регистратура"
+        ],
+        "item_address": [
+            "район \"Толстого (Буссе)\", ул. Толстого, 41В",
+            "район \"Борисенко\", ул. Борисенко, 4"
+        ],
+        "item_site": "https://ultradentdv.ru"
+    },
+    {
+        "item_name": "Евродент",
+        "item_url": "https://www.vl.ru/evrodent",
+        "item_email": "evro-dent@mail.ru",
+        "item_phone": [
+            "+7 (423) 237-00-19",
+            "+7 914 696-81-23"
+        ],
+        "item_address": [
+            "район \"Столетие\", пр-т 100-летия Владивостока, 36Б"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Dentalux",
+        "item_url": "https://www.vl.ru/dentalyuks-ooo",
+        "item_email": "info@dentalux-vl.ru",
+        "item_phone": [
+            "+7 (423) 222-32-13",
+            "+7 967 958-22-13"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Красного Знамени, 10"
+        ],
+        "item_site": "http://dentalux-vl.ru"
+    },
+    {
+        "item_name": "АРТ-ТН",
+        "item_url": "https://www.vl.ru/art-tn",
+        "item_email": "tn1309@mail.ru",
+        "item_phone": [
+            "+7 (423) 200-16-27",
+            "+7 924 730-16-27",
+            "+7 924 730-10-71"
+        ],
+        "item_address": [
+            "район \"Баляева\", ул. Баляева, 56"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Кириллица",
+        "item_url": "https://www.vl.ru/doktor-elistratov-plus",
+        "item_email": "50letvlksm21@gmail.com",
+        "item_phone": [
+            "+7 (423) 228-42-86",
+            "+7 914 672-43-74"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Калинина, 25"
+        ],
+        "item_site": "http://ortodont-dv.ru"
+    },
+    {
+        "item_name": "Дальневосточный медицинский центр",
+        "item_url": "https://www.vl.ru/dalnevostoyj-medicinskij-centr",
+        "item_email": "dvmc92@mail.ru",
+        "item_phone": [
+            "+7 (423) 243-49-12",
+            "+7 (423) 243-48-88 , регистратура"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Океанский, 92"
+        ],
+        "item_site": "http://www.dvmc.ru"
+    },
+    {
+        "item_name": "Атланта 21 век",
+        "item_url": "https://www.vl.ru/atlanta-21-vek-ooo",
+        "item_email": "",
+        "item_phone": [
+            "+7 908 991-37-26",
+            "+7 (423) 232-49-61"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Русская, 72А"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Гелиодент",
+        "item_url": "https://www.vl.ru/geliodent",
+        "item_email": "info@vladstom.ru",
+        "item_phone": [
+            "+7 (423) 230-03-30",
+            "+7 (423) 226-05-57"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Адмирала Фокина, 1А"
+        ],
+        "item_site": "http://vladstom.ru"
+    },
+    {
+        "item_name": "Ортодент-Р",
+        "item_url": "https://www.vl.ru/ortodent-r",
+        "item_email": "ortodent-r1@mail.ru",
+        "item_phone": [
+            "+7 (423) 222-78-05",
+            "+7 (423) 295-40-25",
+            "+7 (423) 279-07-56"
+        ],
+        "item_address": [
+            "район \"Луговая\", ул. Новоивановская, 3"
+        ],
+        "item_site": "https://ortodent-vl.ru"
+    },
+    {
+        "item_name": "Центр эстетической стоматологии и косметологии Монро",
+        "item_url": "https://www.vl.ru/centr-est-stomatologii-i-kosmetologii-monro",
+        "item_email": null,
+        "item_phone": [
+            "+7 (423) 251-85-18"
+        ],
+        "item_address": [
+            "район \"Седанка\", ул. Маковского, 56А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Генциана Дент",
+        "item_url": "https://www.vl.ru/genciana-dent-ooodetsk",
+        "item_email": "genc-dent@yandex.ru",
+        "item_phone": [
+            "+7 (423) 263-95-09",
+            "+7 (423) 264-17-06"
+        ],
+        "item_address": [
+            "район \"64, 71 микрорайоны\", ул. Нейбута, 65А"
+        ],
+        "item_site": "http://генциана-дент.рф"
+    },
+    {
+        "item_name": "Беркут",
+        "item_url": "https://www.vl.ru/berkut-chp",
+        "item_email": "ooo_stom@mail.ru",
+        "item_phone": [
+            "+7 (423) 227-02-34",
+            "+7 (423) 248-03-33"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Черемуховая, 22"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Мой доктор",
+        "item_url": "https://www.vl.ru/semejnyj-medicinskij-centr-moj-doktor",
+        "item_email": "kalinina72@yandex.ru",
+        "item_phone": [
+            "+7 (423) 250-67-23",
+            "+7 (423) 246-99-46",
+            "+7 908 440-67-23"
+        ],
+        "item_address": [
+            "район \"Столетие\", ул. Печорская, 8",
+            "район \"Столетие\", пр-т 100-летия Владивостока, 40"
+        ],
+        "item_site": "https://мойдоктор-вл.рф"
+    },
+    {
+        "item_name": "Парацельс",
+        "item_url": "https://www.vl.ru/paracels-medicinskij-centr",
+        "item_email": "paracels.vl@mail.ru",
+        "item_phone": [
+            "+7 908 994-88-77 , многоканальный",
+            "+7 (423) 226-22-62 , call-центр"
+        ],
+        "item_address": [
+            "район \"Луговая\", ул. Новоивановская, 4А"
+        ],
+        "item_site": "http://www.paracels-vlad.ru"
+    },
+    {
+        "item_name": "Сона",
+        "item_url": "https://www.vl.ru/sona-ooo-firma-sonadetsk",
+        "item_email": "firmasona@yandex.ru",
+        "item_phone": [
+            "+7 (423) 232-06-14",
+            "+7 (423) 232-06-16"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Русская, 17"
+        ],
+        "item_site": "http://www.firmasona.com"
+    },
+    {
+        "item_name": "Деал-С",
+        "item_url": "https://www.vl.ru/deal-s2",
+        "item_email": "on-prim@yandex.ru",
+        "item_phone": [
+            "+7 (423) 200-77-00"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Русская, 55А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Стоматологическая Клиника Доктора Ротенберг",
+        "item_url": "https://www.vl.ru/stomatologicheskaya-klinika-doktora-rotenberg",
+        "item_email": "rotenberg.stomatologiya@bk.ru",
+        "item_phone": [
+            "+7 (423) 248-92-25",
+            "+7 994 022-41-25"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Светланская, 133"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Вера",
+        "item_url": "https://www.vl.ru/vera-boltik-s.a",
+        "item_email": "stomveravl@gmail.com",
+        "item_phone": [
+            "+7 (423) 220-44-38",
+            "+7 908 993-22-32"
+        ],
+        "item_address": [
+            "район \"Третья рабочая\", пр-т Народный, 11"
+        ],
+        "item_site": "http://www.stomvera.ru"
+    },
+    {
+        "item_name": "Лечебно-диагностический центр МГУ им. адмирала Г. И. Невельского",
+        "item_url": "https://www.vl.ru/lechebno-diagnosticheskij-centr-mgu-im.adm.-g.i.neve",
+        "item_email": "bakina@msun.ru",
+        "item_phone": [
+            "+7 (423) 249-77-91 , тел./факс",
+            "+7 (423) 274-06-39"
+        ],
+        "item_address": [
+            "район \"Эгершельд\", ул. Станюковича, 60А"
+        ],
+        "item_site": "http://www.msun.ru/dir/ldc/"
+    },
+    {
+        "item_name": "Лекарь",
+        "item_url": "https://www.vl.ru/lekar-ooo-stomatologicheskij-kabinet",
+        "item_email": "lekar-2005@mail.ru",
+        "item_phone": [
+            "+7 (423) 222-37-56",
+            "+7 (423) 270-71-74"
+        ],
+        "item_address": [
+            "район \"Гайдамак\", ул. Карла Либкнехта, 10А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Дальневосточный окружной медицинский центр",
+        "item_url": "https://www.vl.ru/medicinskij-centr-okruzhnoj-dalnevostoyj-gu-mzrf",
+        "item_email": "inbox@dvomc.vtc.ru",
+        "item_phone": [
+            "+7 (423) 222-36-89 , регистратура",
+            "+7 (423) 222-49-33 , приёмная заведующей",
+            "+7 924 732-02-40 , предварительная запись к врачам",
+            "+7 (423) 249-65-24 , предварительная запись к врачам",
+            "+7 (423) 231-59-26 , приемное отделение",
+            "+7 (423) 231-49-81 , стол справок, центр профилактики остеопороза",
+            "+7 (423) 234-00-05 , запись на МРТ, КТ, рентген-денситометрию, отделение лучевой диагностики",
+            "+7 (423) 231-54-26 , запись на МРТ, КТ, рентген-денситометрию, отделение лучевой диагностики",
+            "+7 (423) 237-51-22 , заведующий стационаром",
+            "+7 (423) 231-56-89 , запись на ФГДС, колоноскопию - эндоскопическое отделение",
+            "+7 (423) 231-59-28 , терапевтическое отделение",
+            "+7 (423) 231-56-93 , хирургическое отделение",
+            "+7 (423) 231-56-86 , неврологическое отделение",
+            "+7 (423) 231-54-39 , ожоговое отделение",
+            "+7 (423) 231-56-98 , отделение анестизиологии и реанимации",
+            "+7 (423) 231-54-59 , ординаторская урологов",
+            "+7 (423) 231-56-87 , отделение функциональной диагностики",
+            "+7 (423) 231-54-47 , отделение реабилитации и восстановительного лечения",
+            "+7 (423) 231-54-29 , паталогоанатомическое отделение",
+            "+7 (423) 234-67-80 , факс",
+            "+7 (423) 231-54-36 , приемная руководителя",
+            "+7 (423) 231-54-77 , клинико-диагностическая лаборатория",
+            "+7 (423) 234-67-80 , факс",
+            "+7 (423) 222-42-15 , приемная заведующей",
+            "+7 (423) 249-63-50 , регистратура"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Береговая, 3",
+            "район \"Чайка\", пр-т 100-летия Владивостока, 161",
+            "район \"Эгершельд\", ул. Морозова, 7"
+        ],
+        "item_site": "http://www.dvomc.ru"
+    },
+    {
+        "item_name": "Астра-Дент",
+        "item_url": "https://www.vl.ru/astra-dent-ooo",
+        "item_email": "ooo.aster-dent@mail.ru",
+        "item_phone": [
+            "+7 (423) 238-06-27",
+            "+7 924 238-57-57"
+        ],
+        "item_address": [
+            "район \"Трудовое\", ул. Лермонтова, 64"
+        ],
+        "item_site": "http://www.astradentvl.ru"
+    },
+    {
+        "item_name": "Мед эксперт",
+        "item_url": "https://www.vl.ru/med-expert",
+        "item_email": "2480222@mail.ru",
+        "item_phone": [
+            "+7 (423) 237-48-87 , регистратура",
+            "+7 (423) 248-02-22 , регистратура"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Русская, 5Б"
+        ],
+        "item_site": "http://www.medexpert-vl.ru"
+    },
+    {
+        "item_name": "World Dent",
+        "item_url": "https://www.vl.ru/world-dent",
+        "item_email": "worlddentvl@yandex.ru",
+        "item_phone": [
+            "+7 (423) 274-00-80",
+            "+7 914 704-00-80"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Мордовцева, 6"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Имплантс",
+        "item_url": "https://www.vl.ru/implants-ooo-mediko-stomatologicheskaya-kompaniyad",
+        "item_email": "implants.stom@mail.ru",
+        "item_phone": [
+            "+7 (423) 243-65-51",
+            "+7 (423) 243-65-53"
+        ],
+        "item_address": [
+            "район \"Третья рабочая\", ул. Шилкинская, 6В"
+        ],
+        "item_site": "http://www.implants-dent.ru"
+    },
+    {
+        "item_name": "Клиника дентальной имплантации",
+        "item_url": "https://www.vl.ru/klinika-dentalnoj-implantacii",
+        "item_email": "cdi.63@mail.ru",
+        "item_phone": [
+            "+7 (423) 226-71-86",
+            "+7 (423) 260-88-22"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Луцкого, 16"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Асстом",
+        "item_url": "https://www.vl.ru/stomatologiya-asstom",
+        "item_email": "asstom68@mail.ru",
+        "item_phone": [
+            "+7 914 967-23-88"
+        ],
+        "item_address": [
+            "Артём, ул. Ульяновская, 3/1"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "PROsmile",
+        "item_url": "https://www.vl.ru/prosmile",
+        "item_email": "prosmilevl@yandex.ru",
+        "item_phone": [
+            "+7 908 993-61-01",
+            "+7 (423) 293-61-01"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Брянская, 18"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Жемчужина",
+        "item_url": "https://www.vl.ru/zhemchuzhina-stomatologiya1",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423-37) 3-76-20",
+            "+7 994 000-40-66"
+        ],
+        "item_address": [
+            "Артём, ул. Лазо, 5А"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Добрый доктор",
+        "item_url": "https://www.vl.ru/yuvenis",
+        "item_email": "stom.dobryidoctor@yandex.ru",
+        "item_phone": [
+            "+7 (423) 209-84-09",
+            "+7 984 199-84-09"
+        ],
+        "item_address": [
+            "район \"Баляева\", ул. Адмирала Юмашева, 4"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Адреналин",
+        "item_url": "https://www.vl.ru/adrenalin-ooo",
+        "item_email": "stom.adrenalin@mail.ru",
+        "item_phone": [
+            "+7 (423) 243-22-99",
+            "+7 (423) 257-33-03",
+            "+7 908 440-73-73"
+        ],
+        "item_address": [
+            "район \"Центр\", пер. Краснознаменный, 4"
+        ],
+        "item_site": "http://adrenalin-stom.com"
+    },
+    {
+        "item_name": "Кволити Дэнт",
+        "item_url": "https://www.vl.ru/kvoliti-dent",
+        "item_email": null,
+        "item_phone": [
+            "+7 902 555-28-63"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Нерчинская, 40"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Эстетика",
+        "item_url": "https://www.vl.ru/estetica-artem",
+        "item_email": "estetica.artem@gmail.com",
+        "item_phone": [
+            "+7 924 338-05-05"
+        ],
+        "item_address": [
+            "Артём, ул. Гоголя, 5"
+        ],
+        "item_site": "http://estetica-artem.ru"
+    },
+    {
+        "item_name": "Миродент",
+        "item_url": "https://www.vl.ru/mirodent",
+        "item_email": "ooomirodent@yandex.ru",
+        "item_phone": [
+            "+7 914 680-30-30",
+            "+7 902 555-19-09"
+        ],
+        "item_address": [
+            "район \"Снеговая падь\", ул. Анны Щетининой, 39"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Консультационно-диагностическая поликлиника ТОФ",
+        "item_url": "https://www.vl.ru/federalnoe-byudzhetnoe-uchrezhdenie",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 263-84-75 , регистратура"
+        ],
+        "item_address": [
+            "район \"Луговая\", ул. Громова, 2"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Стоматология МСЧ МВД России по Приморскому краю",
+        "item_url": "https://www.vl.ru/gospital-msch-mvd-rossii",
+        "item_email": "stomatologd-msch@yandex.ru",
+        "item_phone": [
+            "+7 (423) 242-49-22 , регистратура",
+            "+7 (423) 242-87-83 , заведующий отделением"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Океанский, 48"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Центр стоматологии профессора Русаковой",
+        "item_url": "https://www.vl.ru/centr-stomatologii-professora-rusakovoj",
+        "item_email": "clinica@rusakova-dent.ru",
+        "item_phone": [
+            "+7 (423) 279-02-09"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Уборевича, 38"
+        ],
+        "item_site": "https://rusakova-dent.ru"
+    },
+    {
+        "item_name": "Дент-Студио",
+        "item_url": "https://www.vl.ru/dent-studio",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423-37) 9-88-57"
+        ],
+        "item_address": [
+            "Артём, ул. Лазо, 38"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Dr. Velikiy",
+        "item_url": "https://www.vl.ru/dr-velikiy",
+        "item_email": null,
+        "item_phone": [
+            "+7 (423) 205-22-25"
+        ],
+        "item_address": [
+            "район \"Луговая\", ул. Луговая, 49"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Силан",
+        "item_url": "https://www.vl.ru/silan",
+        "item_email": null,
+        "item_phone": [
+            "+7 902 506-28-17"
+        ],
+        "item_address": [
+            "район \"Фадеева\", ул. Воропаева, 12А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Дентал Мастер",
+        "item_url": "https://www.vl.ru/dental-master",
+        "item_email": "dental-master@mail.ru",
+        "item_phone": [
+            "+7 (423) 205-60-67",
+            "+7 (423) 295-29-92",
+            "+7 (423) 228-65-65"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Бурачка, 17"
+        ],
+        "item_site": "http://dental-master.com"
+    },
+    {
+        "item_name": "Леге Артис",
+        "item_url": "https://www.vl.ru/lege-artis-ooo-stomatologicheskaya-klinika",
+        "item_email": "ska75@mail.ru",
+        "item_phone": [
+            "+7 (423) 245-46-14",
+            "+7 (423) 245-37-99"
+        ],
+        "item_address": [
+            "район \"Некрасовская\", пр-т Океанский, 157"
+        ],
+        "item_site": "http://www.legeartis-clinic.ru"
+    },
+    {
+        "item_name": "Артемовская стоматологическая поликлиника",
+        "item_url": "https://www.vl.ru/artemovskaya-stomatologicheskaya-poliklinika",
+        "item_email": "stomartem@mail.ru",
+        "item_phone": [
+            "+7 (423-37) 4-37-98 , регистратура",
+            "+7 (423-37) 4-35-71 , приемная гл. врача",
+            "+7 (423-37) 4-27-39 , бухгалтерия"
+        ],
+        "item_address": [
+            "Артём, ул. Дзержинского, 10"
+        ],
+        "item_site": "http://stomartem.ru"
+    },
+    {
+        "item_name": "Арт",
+        "item_url": "https://www.vl.ru/art-stomatologichechkaya-klinika",
+        "item_email": "stomaart@yandex.ru",
+        "item_phone": [
+            "+7 (423) 261-24-04"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Кипарисовая, 22"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Профдент",
+        "item_url": "https://www.vl.ru/profdent-stomatologicheskaya-klinika-vrachej-moskvinyh",
+        "item_email": "profdent@bk.ru",
+        "item_phone": [
+            "+7 (423) 240-68-15"
+        ],
+        "item_address": [
+            "район \"Центр\", пр-т Партизанский, 2А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Витадент",
+        "item_url": "https://www.vl.ru/vitadent-ooo",
+        "item_email": "vitadentv@bk.ru",
+        "item_phone": [
+            "+7 (423) 233-65-08",
+            "+7 (423) 236-51-66"
+        ],
+        "item_address": [
+            "район \"Столетие\", ул. Овчинникова, 10"
+        ],
+        "item_site": "http://www.vitadent-vl.ru"
+    },
+    {
+        "item_name": "Коралл",
+        "item_url": "https://www.vl.ru/korall",
+        "item_email": "newcoralcentre@mail.ru",
+        "item_phone": [
+            "+7 914 960-01-21",
+            "+7 (423-37) 9-19-20",
+            "+7 (423-37) 3-97-13",
+            "+7 914 652-81-63"
+        ],
+        "item_address": [
+            "Артём, ул. Фрунзе, 8/1",
+            "Артём, ул. Чапаева, 2А"
+        ],
+        "item_site": "http://www.coralcentre.ru"
+    },
+    {
+        "item_name": "Сона Плюс",
+        "item_url": "https://www.vl.ru/sona-plyus-ooodetsk",
+        "item_email": "sona-plus@mail.ru",
+        "item_phone": [
+            "+7 (423) 246-77-40",
+            "+7 902 058-16-10",
+            "+7 (423) 236-33-33",
+            "+7 (423) 236-92-60"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Пионерская, 1",
+            "район \"Столетие\", ул. Фирсова, 3"
+        ],
+        "item_site": "http://sona-plus.ru"
+    },
+    {
+        "item_name": "Врачебно-физкультурный диспансер",
+        "item_url": "https://www.vl.ru/primorskij-kraevoj-fizkulturnyj-dispanser",
+        "item_email": "pkvfd@bk.ru",
+        "item_phone": [
+            "+7 (423) 227-66-30 , доб. 3"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Черемуховая, 11"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Астра",
+        "item_url": "https://www.vl.ru/astra-stomatologiya",
+        "item_email": "astrakova75@mail.ru",
+        "item_phone": [
+            "+7 (423) 256-20-90"
+        ],
+        "item_address": [
+            "район \"Тихая\", ул. Сахалинская, 3"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Фрегат-Дент",
+        "item_url": "https://www.vl.ru/vladfregat",
+        "item_email": "vladfregat@mail.ru",
+        "item_phone": [
+            "+7 902 505-10-33"
+        ],
+        "item_address": [
+            "район \"Снеговая падь\", ул. Адмирала Горшкова, 24"
+        ],
+        "item_site": "http://vladivostom.ru"
+    },
+    {
+        "item_name": "Новодент",
+        "item_url": "https://www.vl.ru/ooo-novodent",
+        "item_email": null,
+        "item_phone": [
+            "+7 966 277-00-00"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Давыдова, 22А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Аюста",
+        "item_url": "https://www.vl.ru/ayusta",
+        "item_email": "yuulia@yandex.ru",
+        "item_phone": [
+            "+7 902 481-85-80",
+            "+7 (423) 267-85-80",
+            "+7 953 209-00-02"
+        ],
+        "item_address": [
+            "район \"Центр\", пр-т Партизанский, 22"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Примастом",
+        "item_url": "https://www.vl.ru/primastom",
+        "item_email": "primastom.vl@yandex.ru",
+        "item_phone": [
+            "+7 (423) 274-97-34"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Светланская, 33"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Престиж",
+        "item_url": "https://www.vl.ru/prestizh-stom",
+        "item_email": "mail@pr-clinic.ru",
+        "item_phone": [
+            "+7 (423) 202-66-40",
+            "+7 (423) 272-08-11"
+        ],
+        "item_address": [
+            "район \"Центр\", пр-т Партизанский, 12А"
+        ],
+        "item_site": "http://pr-clinic.ru"
+    },
+    {
+        "item_name": "Доверие",
+        "item_url": "https://www.vl.ru/doverie-vl",
+        "item_email": "vizitmed@mail.ru",
+        "item_phone": [
+            "+7 984 198-66-08"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Острякова, 9А"
+        ],
+        "item_site": "https://стоматологиядоверие.рф"
+    },
+    {
+        "item_name": "АА Групп-Дент",
+        "item_url": "https://www.vl.ru/aa-grupp-dent",
+        "item_email": null,
+        "item_phone": [
+            "+7 (423) 233-03-03",
+            "+7 924 125-42-74",
+            "+7 908 993-56-23"
+        ],
+        "item_address": [
+            "район \"Столетие\", ул. Днепровская, 25"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Леонардо",
+        "item_url": "https://www.vl.ru/leonardo-2",
+        "item_email": "leonardo.ooo@mail.ru",
+        "item_phone": [
+            "+7 (423) 275-55-44",
+            "+7 914 705-55-44"
+        ],
+        "item_address": [
+            "район \"Некрасовская\", пр-т Красного Знамени, 59"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Стоматология на Каплунова",
+        "item_url": "https://www.vl.ru/stomatologiya-na-kaplunova",
+        "item_email": "aliha40vl@mail.ru",
+        "item_phone": [
+            "+7 902 555-61-95",
+            "+7 902 482-79-00",
+            "+7 (423) 251-17-00"
+        ],
+        "item_address": [
+            "район \"Луговая\", ул. Каплунова, 6"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Жемчужина",
+        "item_url": "https://www.vl.ru/zhemchuzhina-ooo",
+        "item_email": "stomzhemchuzhina@yandex.ru",
+        "item_phone": [
+            "+7 (423) 241-44-10",
+            "+7 (423) 249-63-48",
+            "+7 (423) 222-37-27",
+            "+7 902 484-26-80"
+        ],
+        "item_address": [
+            "район \"Эгершельд\", ул. Крыгина, 17А",
+            "район \"Некрасовская\", пр-т Красного Знамени, 78"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Веста",
+        "item_url": "https://www.vl.ru/boris-ponomarevskij",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 244-61-08"
+        ],
+        "item_address": [
+            "район \"Некрасовская\", пр-т Народный, 49"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Дантист ТВ",
+        "item_url": "https://www.vl.ru/dantist-tv",
+        "item_email": "dantist_tv@bk.ru",
+        "item_phone": [
+            "+7 (423) 225-04-04"
+        ],
+        "item_address": [
+            "район \"Борисенко\", ул. Борисенко, 25"
+        ],
+        "item_site": "http://dantisttv.business.site"
+    },
+    {
+        "item_name": "Стоматологическая клиника ГБОУ ВПО ТГМУ",
+        "item_url": "https://www.vl.ru/stomatologicheskaya-klinika-gbou-vpo-tgmu-vl",
+        "item_email": "stomclinic.vgmu@gmail.com",
+        "item_phone": [
+            "+7 984 192-34-36",
+            "+7 984 154-69-02",
+            "+7 (423) 245-19-60"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Острякова, 2Б"
+        ],
+        "item_site": "http://www.tgmu.ru"
+    },
+    {
+        "item_name": "КлиП-Дент",
+        "item_url": "https://www.vl.ru/kl-dep-stomatologicheskij-kabinet",
+        "item_email": "klip-dend-vl@yandex.ru",
+        "item_phone": [
+            "+7 (423) 226-81-38",
+            "+7 950 280-61-63"
+        ],
+        "item_address": [
+            "район \"Луговая\", ул. Светланская, 150"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Владодент",
+        "item_url": "https://www.vl.ru/vladodent-ooo",
+        "item_email": "vladodent@mail.ru",
+        "item_phone": [
+            "+7 908 987-87-11"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Зои Космодемьянской, 27А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Эстетика",
+        "item_url": "https://www.vl.ru/stomatologiya-estetika",
+        "item_email": "",
+        "item_phone": [
+            "+7 914 699-07-85"
+        ],
+        "item_address": [
+            "район \"Гайдамак\", ул. Светланская, 189"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Е-Стомцентр",
+        "item_url": "https://www.vl.ru/e-stomcentr",
+        "item_email": "",
+        "item_phone": [
+            "+7 908 451-89-51",
+            "+7 (423) 280-17-17"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Фонтанная, 17"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "ПК Стоматолог",
+        "item_url": "https://www.vl.ru/stomatolog-proizvodstvennyj-kooperativprotezirov",
+        "item_email": "pkstomatolog@gmail.com",
+        "item_phone": [
+            "+7 (423) 231-78-01",
+            "+7 994 019-78-90"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", пр-т 100-летия Владивостока, 106А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Астерий",
+        "item_url": "https://www.vl.ru/zubnoj-kabinet-na-habarovskoj-ooo",
+        "item_email": "asteriy1@yandex.ru",
+        "item_phone": [
+            "+7 (423) 259-34-14",
+            "+7 (423) 242-57-06"
+        ],
+        "item_address": [
+            "район \"Первая речка\", ул. Хабаровская, 24"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Ориент Дентал Плюс",
+        "item_url": "https://www.vl.ru/orient-dental-plyus-stomatologicheskaya-klinika",
+        "item_email": "orient_dental@mail.ru",
+        "item_phone": [
+            "+7 (423) 207-76-41",
+            "+7 (423) 263-93-36 , тел./факс"
+        ],
+        "item_address": [
+            "район \"Луговая\", ул. Шепеткова, 8А"
+        ],
+        "item_site": "http://orientdental-plus.ru"
+    },
+    {
+        "item_name": "Денио",
+        "item_url": "https://www.vl.ru/denio",
+        "item_email": null,
+        "item_phone": [
+            "+7 (423) 292-57-30"
+        ],
+        "item_address": [
+            "район \"Борисенко\", ул. Борисенко, 40"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Династия",
+        "item_url": "https://www.vl.ru/dinastiya-vlk",
+        "item_email": "dinastiya2809962@gmail.com",
+        "item_phone": [
+            "+7 (423) 280-99-62",
+            "+7 967 958-99-62"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Иртышская, 5"
+        ],
+        "item_site": "http://dinastiya25.ru"
+    },
+    {
+        "item_name": "Медицинское объединение ДВО РАН",
+        "item_url": "https://www.vl.ru/medicinskoe-obedinenie-dvoran",
+        "item_email": "priemmodvoran@mail.ru",
+        "item_phone": [
+            "+7 (423) 231-11-84 , контактный центр",
+            "+7 (423) 231-11-66 , приемное отделение стационара",
+            "+7 (423) 231-33-25 , регистратура диспансерного отделения",
+            "+7 (423) 231-33-32 , планово-экономический отдел"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Кирова, 95"
+        ],
+        "item_site": "http://www.modvo.ru"
+    },
+    {
+        "item_name": "Здоровье 32",
+        "item_url": "https://www.vl.ru/zdorove-32",
+        "item_email": "zdravkol2011@gmail.com",
+        "item_phone": [
+            "+7 (423) 299-86-84",
+            "+7 (423) 294-30-23"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Русская, 56",
+            "район \"Столетие\", пр-т 100-летия Владивостока, 60"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "ДК Дент",
+        "item_url": "https://www.vl.ru/dk-dent",
+        "item_email": "dcrnwcommon@gmail.сom",
+        "item_phone": [
+            "+7 (423) 256-18-18",
+            "+7 902 556-18-18"
+        ],
+        "item_address": [
+            "район \"Столетие\", ул. Ильичева, 27"
+        ],
+        "item_site": "https://dk-dent.ru"
+    },
+    {
+        "item_name": "Эхсон",
+        "item_url": "https://www.vl.ru/ehson",
+        "item_email": null,
+        "item_phone": [
+            "+7 (423) 294-16-86"
+        ],
+        "item_address": [
+            "район \"Некрасовская\", пр-т Народный, 28 стр. 1"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "AVA-Dent",
+        "item_url": "https://www.vl.ru/ava-dent",
+        "item_email": null,
+        "item_phone": [
+            "+7 (423) 274-26-53",
+            "+7 904 627-50-90"
+        ],
+        "item_address": [
+            "район \"БАМ\", ул. Тухачевского, 24"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Вирджиния",
+        "item_url": "https://www.vl.ru/virdzhiniya-stomatologiya",
+        "item_email": "stom.virdzhiniya@yandex.ru",
+        "item_phone": [
+            "+7 902 555-39-16",
+            "+7 (423) 255-39-16"
+        ],
+        "item_address": [
+            "район \"Столетие\", ул. Постышева, 13"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "7я",
+        "item_url": "https://www.vl.ru/7ya-artyom",
+        "item_email": "7yamed@mail.ru",
+        "item_phone": [
+            "+7 (423-37) 3-09-09",
+            "+7 (423) 205-60-55",
+            "+7 924 077-47-27"
+        ],
+        "item_address": [
+            "Артём, ул. Пушкина, 6А"
+        ],
+        "item_site": "http://7ya-medcentr.ru"
+    },
+    {
+        "item_name": "Оскал",
+        "item_url": "https://www.vl.ru/oskal",
+        "item_email": "osskal@mail.ru",
+        "item_phone": [
+            "+7 (423) 222-34-90"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Русская, 65 кор. 10"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Апекс",
+        "item_url": "https://www.vl.ru/apex2011",
+        "item_email": "apex-vl2011@yandex.ru",
+        "item_phone": [
+            "+7 (423) 261-00-01",
+            "+7 (423) 201-61-02"
+        ],
+        "item_address": [
+            "район \"Эгершельд\", ул. Верхнепортовая, 42"
+        ],
+        "item_site": "http://www.apeksvl.ru"
+    },
+    {
+        "item_name": "Маруга",
+        "item_url": "https://www.vl.ru/maruga-ooo-lechenie-protezirovanie1",
+        "item_email": "maruga09.25@mail.ru",
+        "item_phone": [
+            "+7 (423) 237-07-42"
+        ],
+        "item_address": [
+            "район \"Столетие\", пер. Камский, 5"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Добрый доктор",
+        "item_url": "https://www.vl.ru/dobryj-doktorart",
+        "item_email": "woshirin@mail.ru",
+        "item_phone": [
+            "+7 (423-37) 7-43-46",
+            "+7 902 077-43-46",
+            "+7 (423) 266-50-05"
+        ],
+        "item_address": [
+            "Артём, ул. Кирова, 34",
+            "Приморский край, с. Прохладное, ул. Центральная, 47А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Доктор Дента",
+        "item_url": "https://www.vl.ru/doktor-denta",
+        "item_email": "doctor_denta@mail.ru",
+        "item_phone": [
+            "+7 (423) 200-06-76"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Кирова, 60А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Блич",
+        "item_url": "https://www.vl.ru/blich",
+        "item_email": null,
+        "item_phone": [
+            "+7 (423) 274-37-82",
+            "+7 914 704-37-82",
+            "+7 924 130-13-95"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Русская, 57Н"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Жемчуг",
+        "item_url": "https://www.vl.ru/zemchug",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 236-93-54"
+        ],
+        "item_address": [
+            "район \"Столетие\", пр-т 100-летия Владивостока, 31"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "А.С.Б.",
+        "item_url": "https://www.vl.ru/a.s.b",
+        "item_email": "klinikaasb@mail.ru",
+        "item_phone": [
+            "+7 (423) 243-95-03",
+            "+7 902 480-88-89"
+        ],
+        "item_address": [
+            "район \"Третья рабочая\", пр-т Красного Знамени, 114"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Др. Зубнофф",
+        "item_url": "https://www.vl.ru/dr.-zubnoff",
+        "item_email": "dsa-doc@yandex.ru",
+        "item_phone": [
+            "+7 902 527-71-40",
+            "+7 951 001-00-30",
+            "+7 951 021-02-30"
+        ],
+        "item_address": [
+            "Артём, ул. Пархоменко, 26"
+        ],
+        "item_site": "http://дрзубнофф.рф"
+    },
+    {
+        "item_name": "Центр цифровой стоматологии доктора Шадрина",
+        "item_url": "https://www.vl.ru/centr-cifrovoj-stomatologii-doktora-shadrina",
+        "item_email": "ooo.shadrin23@mail.ru",
+        "item_phone": [
+            "+7 (423) 239-22-99",
+            "+7 991 496-60-99"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Батарейная, 2"
+        ],
+        "item_site": "http://doctor-shadrin.ru"
+    },
+    {
+        "item_name": "Примодент",
+        "item_url": "https://www.vl.ru/primodent-ooo",
+        "item_email": "primodent@mail.ru",
+        "item_phone": [
+            "+7 (423) 292-20-55",
+            "+7 (423) 240-03-75",
+            "+7 (423) 250-61-16"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Алеутская, 51"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Магия улыбки",
+        "item_url": "https://www.vl.ru/magiya-ulybki",
+        "item_email": null,
+        "item_phone": [
+            "+7 (423) 290-71-72",
+            "+7 (423) 248-05-64 , директор",
+            "+7 902 505-71-72"
+        ],
+        "item_address": [
+            "район \"Тихая\", ул. Сахалинская, 19"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Анна и Э",
+        "item_url": "https://www.vl.ru/anna-i-e-ooo",
+        "item_email": "annaestom@mail.ru",
+        "item_phone": [
+            "+7 (423) 263-98-50",
+            "+7 (423) 200-03-03"
+        ],
+        "item_address": [
+            "район \"Борисенко\", ул. Сафонова, 37"
+        ],
+        "item_site": "http://www.annaestom.ru"
+    },
+    {
+        "item_name": "Avrora DentHouse",
+        "item_url": "https://www.vl.ru/avrora-denthouse",
+        "item_email": "sanadent25@yandex.ru",
+        "item_phone": [
+            "+7 (423) 246-62-38",
+            "+7 (423) 257-10-01",
+            "+7 902 557-10-01"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Авроровская, 17"
+        ],
+        "item_site": "http://auroradh.ru"
+    },
+    {
+        "item_name": "Аквамарин Плюс",
+        "item_url": "https://www.vl.ru/akvamarin-ooo",
+        "item_email": "aquamarin77@inbox.ru",
+        "item_phone": [
+            "+7 (423) 231-89-84",
+            "+7 (423) 237-60-66"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Кирова, 23"
+        ],
+        "item_site": "http://www.akvamarinstom.ru"
+    },
+    {
+        "item_name": "Вазген Плюс",
+        "item_url": "https://www.vl.ru/vazgen-ooo",
+        "item_email": "vazgen.ooo@mail.ru",
+        "item_phone": [
+            "+7 (423) 263-25-65",
+            "+7 924 008-47-47"
+        ],
+        "item_address": [
+            "район \"Борисенко\", ул. 40 лет ВЛКСМ, 14"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Оазис",
+        "item_url": "https://www.vl.ru/oazis-stomatologiya",
+        "item_email": "stom-oasis@rambler.ru",
+        "item_phone": [
+            "+7 (423-37) 9-87-85"
+        ],
+        "item_address": [
+            "Артём, ул. Площадь Ленина, 5"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Мастер-Дент",
+        "item_url": "https://www.vl.ru/master-dent-vlk",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423-34) 3-50-11",
+            "+7 902 054-58-00"
+        ],
+        "item_address": [
+            "Приморский край, пос. Новый, ул. Первомайская, 1"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Вира Дент",
+        "item_url": "https://www.vl.ru/vira-dent",
+        "item_email": "alena_kadyrmanova@mail.ru",
+        "item_phone": [
+            "+7 (423) 245-06-28"
+        ],
+        "item_address": [
+            "район \"Первая речка\", ул. Садовая, 12"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Стоматолог",
+        "item_url": "https://www.vl.ru/stomatolog-art",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423-37) 3-70-27"
+        ],
+        "item_address": [
+            "Артём, ул. Пархоменко, 24"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Дентал-Бэст",
+        "item_url": "https://www.vl.ru/dental-best",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 268-65-65",
+            "+7 (423) 255-91-38",
+            "+7 902 555-91-38"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Русская, 94"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Пионер",
+        "item_url": "https://www.vl.ru/pionervl",
+        "item_email": "vaiomaya@gmail.com",
+        "item_phone": [
+            "+7 (423) 200-31-16",
+            "+7 924 730-31-16"
+        ],
+        "item_address": [
+            "район \"Эгершельд\", ул. Верхнепортовая, 32"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Стоматологическая клиника доктора Безручко",
+        "item_url": "https://www.vl.ru/stom-klinika-doktora-bezruchko",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 242-77-44"
+        ],
+        "item_address": [
+            "район \"Первая речка\", ул. Амурская, 26"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Бор",
+        "item_url": "https://www.vl.ru/bor-ooo-stomatologiya",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 233-37-05",
+            "+7 914 791-04-78"
+        ],
+        "item_address": [
+            "район \"Седанка\", ул. Маковского, 41"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Перламутр",
+        "item_url": "https://www.vl.ru/perlamutr-stom",
+        "item_email": null,
+        "item_phone": [
+            "+7 924 127-27-78 , врач",
+            "+7 908 455-81-25"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Светланская, 167"
+        ],
+        "item_site": "https://perlamutr-vl.ru"
+    },
+    {
+        "item_name": "Мехак",
+        "item_url": "https://www.vl.ru/mehak-ooo",
+        "item_email": "",
+        "item_phone": [
+            "+7 908 991-96-18"
+        ],
+        "item_address": [
+            "район \"Трудовая\", ул. 50 лет ВЛКСМ, 30Б"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "ДарАнт",
+        "item_url": "https://www.vl.ru/darant",
+        "item_email": "darant-vl@yandex.ru",
+        "item_phone": [
+            "+7 (423) 231-27-26"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Кирова, 27"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Вайт Тис",
+        "item_url": "https://www.vl.ru/whiteteeth",
+        "item_email": "",
+        "item_phone": [
+            "+7 908 962-96-92"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Олега Кошевого, 25"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Сервис Дентал",
+        "item_url": "https://www.vl.ru/avantazh-ooostomatologicheskij-kabinet",
+        "item_email": "borzienko69@mail.ru",
+        "item_phone": [
+            "+7 (423) 227-73-29",
+            "+7 (423) 277-60-93",
+            "+7 914 707-60-93",
+            "+7 (423) 263-97-73",
+            "+7 (423) 280-94-73"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Калинина, 49",
+            "район \"Борисенко\", ул. Марины Расковой, 2А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Тари",
+        "item_url": "https://www.vl.ru/tari",
+        "item_email": "tari-vl@yandex.ru",
+        "item_phone": [
+            "+7 (423) 274-57-42 , администратор",
+            "+7 (423) 224-42-34"
+        ],
+        "item_address": [
+            "район \"Третья рабочая\", пр-т Красного Знамени, 120А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Доктор Александров",
+        "item_url": "https://www.vl.ru/doktor-alexandrov",
+        "item_email": "talsid1@mail.ru",
+        "item_phone": [
+            "+7 (423) 231-14-32",
+            "+7 (423) 259-11-69",
+            "+7 908 449-11-69"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", пр-т 100-летия Владивостока, 127"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Стоматологический кабинет",
+        "item_url": "https://www.vl.ru/stomatologicheskij-kabinet-gym",
+        "item_email": null,
+        "item_phone": [
+            "+7 902 488-89-83"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Светланская, 33"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Кристалл-дент",
+        "item_url": "https://www.vl.ru/ooo-kristall-dent",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 226-10-91"
+        ],
+        "item_address": [
+            "район \"Некрасовская\", пр-т Красного Знамени, 82"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Кристайл",
+        "item_url": "https://www.vl.ru/kristajl-artem",
+        "item_email": "",
+        "item_phone": [
+            "+7 914 791-23-73"
+        ],
+        "item_address": [
+            "Артём, ул. Кирова, 39А"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Стоматологическая клиника Доктора Неделяева",
+        "item_url": "https://www.vl.ru/stomatologicheskaya-klinika-doktora-nedelyaeva",
+        "item_email": "artem.nedelyaev@mail.ru",
+        "item_phone": [
+            "+7 (423) 276-12-34",
+            "+7 914 706-12-34"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Острякова, 5Г"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Стомэкс",
+        "item_url": "https://www.vl.ru/stomex",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 220-44-12"
+        ],
+        "item_address": [
+            "район \"Снеговая\", ул. Марченко, 6"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Зубная стать",
+        "item_url": "https://www.vl.ru/zubnaya-stat",
+        "item_email": "ronastom@mail.ru",
+        "item_phone": [
+            "+7 950 291-31-39",
+            "+7 (423) 266-00-12"
+        ],
+        "item_address": [
+            "район \"Снеговая падь\", ул. Анны Щетининой, 3"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Collage",
+        "item_url": "https://www.vl.ru/collage",
+        "item_email": "collage999@mail.ru",
+        "item_phone": [
+            "+7 (423) 296-46-99",
+            "+7 908 992-10-67"
+        ],
+        "item_address": [
+            "район \"64, 71 микрорайоны\", ул. Ватутина, 4А"
+        ],
+        "item_site": "http://www.collage-center.ru"
+    },
+    {
+        "item_name": "Стом Лайн-М",
+        "item_url": "https://www.vl.ru/stom-lajn-m-ooo",
+        "item_email": "stom-line@yandex.ru",
+        "item_phone": [
+            "+7 (423) 279-10-60",
+            "+7 (423) 279-10-61 , тел./факс"
+        ],
+        "item_address": [
+            "район \"Эгершельд\", ул. Стрельникова, 7"
+        ],
+        "item_site": "http://www.stom-line.com"
+    },
+    {
+        "item_name": "Эстетикс",
+        "item_url": "https://www.vl.ru/estetix",
+        "item_email": "ka-sya@mail.ru",
+        "item_phone": [
+            "+7 924 264-02-80",
+            "+7 924 251-09-23"
+        ],
+        "item_address": [
+            "Артём, ул. Тверская (с. Кролевцы), 3"
+        ],
+        "item_site": "https://estetics-dnt.ru"
+    },
+    {
+        "item_name": "Стоматология на Заречной",
+        "item_url": "https://www.vl.ru/stomatologiya-na-zarechnoj",
+        "item_email": "",
+        "item_phone": [
+            "+7 991 496-84-84"
+        ],
+        "item_address": [
+            "Артём, ул. Заречная, 6"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "D’esten",
+        "item_url": "https://www.vl.ru/desten-vl",
+        "item_email": "desten.pro@mail.ru",
+        "item_phone": [
+            "+7 (423) 239-23-23"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Прапорщика Комарова, 58"
+        ],
+        "item_site": "https://desten.pro"
+    },
+    {
+        "item_name": "Эль-Денто",
+        "item_url": "https://www.vl.ru/el-dento",
+        "item_email": null,
+        "item_phone": [
+            "+7 (423) 258-08-75",
+            "+7 908 448-08-75",
+            "+7 914 793-77-78"
+        ],
+        "item_address": [
+            "район \"Некрасовская\", пр-т Партизанский, 58В"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Доктор Л",
+        "item_url": "https://www.vl.ru/stomatologiya-ip-shvedenko-l.p1",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 233-08-28"
+        ],
+        "item_address": [
+            "район \"Седанка\", ул. Полетаева, 6Б"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "32",
+        "item_url": "https://www.vl.ru/32-stomatologicheskij-kabinet",
+        "item_email": "ooo.32@yandex.ru",
+        "item_phone": [
+            "+7 (423) 245-75-30",
+            "+7 (423) 297-51-69 , администратор"
+        ],
+        "item_address": [
+            "район \"Некрасовская\", пр-т Народный, 55"
+        ],
+        "item_site": "http://32vl.ru"
+    },
+    {
+        "item_name": "Семейная Стоматология",
+        "item_url": "https://www.vl.ru/semejnaya-stomatologiya-ooo",
+        "item_email": "semeynaya_stom@mail.ru",
+        "item_phone": [
+            "+7 (423) 200-77-17"
+        ],
+        "item_address": [
+            "район \"Снеговая падь\", ул. Адмирала Горшкова, 2"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Конкордия",
+        "item_url": "https://www.vl.ru/konkordia",
+        "item_email": "",
+        "item_phone": [
+            "+7 964 440-32-22"
+        ],
+        "item_address": [
+            "район \"Эгершельд\", ул. Станюковича, 49"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Стом-Эффект",
+        "item_url": "https://www.vl.ru/stom-effekt",
+        "item_email": null,
+        "item_phone": [
+            "+7 (423) 245-58-82",
+            "+7 (423) 269-25-23"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Океанский, 83"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Centera",
+        "item_url": "https://www.vl.ru/rekonstruktivnaya-stomatologiya",
+        "item_email": "info@centera.pro",
+        "item_phone": [
+            "+7 (423) 280-44-04"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Острякова, 8"
+        ],
+        "item_site": "http://centera.pro"
+    },
+    {
+        "item_name": "Аврора-Дент",
+        "item_url": "https://www.vl.ru/avrora-dent",
+        "item_email": "avroradent@yandex.ru",
+        "item_phone": [
+            "+7 (423) 226-99-06",
+            "+7 968 165-34-36"
+        ],
+        "item_address": [
+            "район \"Толстого (Буссе)\", ул. Толстого, 48"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Vera-Dent",
+        "item_url": "https://www.vl.ru/vera-dent-stomatologicheskij-centr",
+        "item_email": "idealdent@mail.ru",
+        "item_phone": [],
+        "item_address": [
+            "район \"Столетие\", пр-т 100-летия Владивостока, 74"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Ивея",
+        "item_url": "https://www.vl.ru/iveya",
+        "item_email": "stomivea@mail.ru",
+        "item_phone": [
+            "+7 (423) 238-15-34",
+            "+7 914 077-14-26",
+            "+7 902 524-66-12"
+        ],
+        "item_address": [
+            "район \"Трудовое\", ул. Лермонтова, 60"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Дент-Арт",
+        "item_url": "https://www.vl.ru/dent-art-stomatologiya",
+        "item_email": "info@dent-art-vl.com",
+        "item_phone": [
+            "+7 (423) 246-91-54",
+            "+7 (423) 244-02-42",
+            "+7 908 972-24-49"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Московская, 1"
+        ],
+        "item_site": "http://www.dent-art-vl.com"
+    },
+    {
+        "item_name": "Dental Crown",
+        "item_url": "https://www.vl.ru/stomatologicheskaya-klinika-dental-crown",
+        "item_email": null,
+        "item_phone": [
+            "+7 902 075-00-03"
+        ],
+        "item_address": [
+            "район \"Фадеева\", ул. Фадеева, 6"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Гармония",
+        "item_url": "https://www.vl.ru/garmoniya.-stomatologicheskaya-klinika",
+        "item_email": "sk.garmonia@mail.ru",
+        "item_phone": [
+            "+7 (423) 278-24-23"
+        ],
+        "item_address": [
+            "район \"Столетие\", ул. Печорская, 8А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Ивалга",
+        "item_url": "https://www.vl.ru/ivalga-ooo",
+        "item_email": "info@ivalga.ru",
+        "item_phone": [
+            "+7 (423) 228-88-17",
+            "+7 (423) 221-21-44",
+            "+7 924 338-83-63"
+        ],
+        "item_address": [
+            "район \"Тихая\", ул. Космонавтов, 5"
+        ],
+        "item_site": "http://www.ivalga.ru"
+    },
+    {
+        "item_name": "Premiera",
+        "item_url": "https://www.vl.ru/primiera",
+        "item_email": "info.premiera@yandex.ru",
+        "item_phone": [
+            "+7 (423) 260-54-54",
+            "+7 (423) 200-86-86"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Светланская, 80В"
+        ],
+        "item_site": "http://premiera.clinic"
+    },
+    {
+        "item_name": "СВ-лик",
+        "item_url": "https://www.vl.ru/sv-lik",
+        "item_email": "sv_lik_vl@mail.ru",
+        "item_phone": [
+            "+7 (423) 225-96-86",
+            "+7 914 714-34-82",
+            "+7 914 797-07-17"
+        ],
+        "item_address": [
+            "район \"Тихая\", ул. Сахалинская, 48"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Ваш Доктор",
+        "item_url": "https://www.vl.ru/stomatologicheskaya-klinika-vash-doktor",
+        "item_email": "vasdoktors@gmail.com",
+        "item_phone": [
+            "+7 (423) 272-83-29",
+            "+7 924 731-77-44"
+        ],
+        "item_address": [
+            "район \"Баляева\", ул. Луговая, 50"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Стом-ВД",
+        "item_url": "https://www.vl.ru/stom-vdvl",
+        "item_email": "stomvd@yandex.ru",
+        "item_phone": [
+            "+7 (423) 231-11-31",
+            "+7 914 976-51-44"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Давыдова, 35"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Владивостокская больница №3",
+        "item_url": "https://www.vl.ru/detskaya-poliklinika-nomer-12-2",
+        "item_email": "muzhospital@mail.ru",
+        "item_phone": [
+            "+7 (423) 238-79-03 , регистратура",
+            "+7 (423) 238-80-19 , заведующая детской поликлиникой",
+            "+7 (423) 238-92-92 , зав. педиатрическим отделением",
+            "+7 (423) 238-06-26 , регистратура",
+            "+7 (423) 238-70-22 , зам. главного врача по обслуживанию детского населения"
+        ],
+        "item_address": [
+            "район \"Океанская\", ул. Первая, 6",
+            "район \"Трудовое\", ул. Лермонтова, 85/2"
+        ],
+        "item_site": "http://www.vlgb3.ru"
+    },
+    {
+        "item_name": "Дэм",
+        "item_url": "https://www.vl.ru/dem-optik-stomatologicheskaya-klinika",
+        "item_email": "dem-klinika@yandex.ru",
+        "item_phone": [
+            "+7 (423) 295-03-30"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Русская, 27В"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Анна",
+        "item_url": "https://www.vl.ru/anna-stomatologicheskaya-klinika",
+        "item_email": "anna-dental@yandex.ru",
+        "item_phone": [
+            "+7 (423) 245-06-96",
+            "+7 (423) 268-38-87",
+            "+7 902 482-38-87"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Острякова, 7"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Доктор Кан",
+        "item_url": "https://www.vl.ru/stomatologiya-doktor-kan",
+        "item_email": "doctorkan_vl@mail.ru",
+        "item_phone": [
+            "+7 (423) 239-33-03",
+            "+7 984 145-14-18"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Енисейская, 23Д кор. 2"
+        ],
+        "item_site": "http://doctorkan.ru"
+    },
+    {
+        "item_name": "Союз",
+        "item_url": "https://www.vl.ru/stomatologiya-soyuz",
+        "item_email": "souz-dent@mail.ru",
+        "item_phone": [
+            "+7 (423) 277-24-23",
+            "+7 914 707-24-23",
+            "+7 (423) 260-62-86"
+        ],
+        "item_address": [
+            "район \"Баляева\", ул. Луговая, 76"
+        ],
+        "item_site": "http://souz-dent.ru"
+    },
+    {
+        "item_name": "Стоматологическая клиника доктора Фролова",
+        "item_url": "https://www.vl.ru/serih",
+        "item_email": "info@drfrolov.pro",
+        "item_phone": [
+            "+7 914 791-15-15"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Запорожская, 77"
+        ],
+        "item_site": "http://drfrolov.pro"
+    },
+    {
+        "item_name": "Аист",
+        "item_url": "https://www.vl.ru/aist-ooo-ads-so-stranami-atr-1",
+        "item_email": "aistdental@mail.ru",
+        "item_phone": [
+            "+7 (423) 242-42-96",
+            "+7 (423) 245-13-75",
+            "+7 (423) 245-08-16",
+            "+7 991 496-73-31"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Океанский, 123В"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Карат-В",
+        "item_url": "https://www.vl.ru/karat-v-ooo",
+        "item_email": "lusine.7878@mail.ru",
+        "item_phone": [
+            "+7 (423) 232-98-98"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Русская, 77"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Адмира",
+        "item_url": "https://www.vl.ru/admira-stomatologiya",
+        "item_email": "admira-luxs@mail.ru",
+        "item_phone": [
+            "+7 (423) 237-42-00",
+            "+7 914 686-75-10"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", пр-т 100-летия Владивостока, 103"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Евро-Стом",
+        "item_url": "https://www.vl.ru/evro-stom-ooo-stomatologiya",
+        "item_email": "evrostom48@mail.ru",
+        "item_phone": [
+            "+7 (423) 220-71-07",
+            "+7 908 994-53-52"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Пушкинская, 48"
+        ],
+        "item_site": "http://www.evro-stom.ru"
+    },
+    {
+        "item_name": "Сапфира",
+        "item_url": "https://www.vl.ru/sapfiraart",
+        "item_email": "stomsapfira@mail.ru",
+        "item_phone": [
+            "+7 950 282-89-92"
+        ],
+        "item_address": [
+            "Артём, ул. Фрунзе, 50"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Альбус",
+        "item_url": "https://www.vl.ru/albus",
+        "item_email": "Albus_dent@mail.ru",
+        "item_phone": [
+            "+7 (423) 265-67-65",
+            "+7 964 445-67-65"
+        ],
+        "item_address": [
+            "район \"Борисенко\", ул. Строительная 3-я, 9"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "A-dent",
+        "item_url": "https://www.vl.ru/a-dent",
+        "item_email": "a-dentww@mail.ru",
+        "item_phone": [
+            "+7 (423) 243-90-80",
+            "+7 (423) 250-33-66"
+        ],
+        "item_address": [
+            "район \"Первая речка\", ул. Амурская, 57"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "ДенТас",
+        "item_url": "https://www.vl.ru/dentas-ooo",
+        "item_email": "dentas_vlad@mail.ru",
+        "item_phone": [
+            "+7 (423) 272-12-10",
+            "+7 (423) 260-97-15"
+        ],
+        "item_address": [
+            "район \"Третья рабочая\", пр-т Народный, 11В"
+        ],
+        "item_site": "http://dentas.su"
+    },
+    {
+        "item_name": "Оникс",
+        "item_url": "https://www.vl.ru/oniks-ooo",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 228-87-82"
+        ],
+        "item_address": [
+            "район \"Тихая\", ул. Космонавтов, 27"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "MagicDent",
+        "item_url": "https://www.vl.ru/magicdent",
+        "item_email": "akver2021@mail.ru",
+        "item_phone": [
+            "+7 984 198-11-30",
+            "+7 (423) 208-11-30",
+            "+7 (423) 253-61-01"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Херсонская, 4"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Ввк",
+        "item_url": "https://www.vl.ru/vvk-stomatologiya",
+        "item_email": "vvkstom@mail.ru",
+        "item_phone": [
+            "+7 (423-37) 6-12-05"
+        ],
+        "item_address": [
+            "Артём, ул. Кооперативная, 4"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Медик-89",
+        "item_url": "https://www.vl.ru/medik-89-ooo",
+        "item_email": "medik-89@mail.ru",
+        "item_phone": [
+            "+7 (423) 253-01-75",
+            "+7 (423) 250-25-07"
+        ],
+        "item_address": [
+            "район \"Столетие\", ул. Ильичева, 4"
+        ],
+        "item_site": "http://medik-89.ru"
+    },
+    {
+        "item_name": "Адонис",
+        "item_url": "https://www.vl.ru/adonis-stomatologicheskaya-klinika",
+        "item_email": "talshik@mail.ru",
+        "item_phone": [
+            "+7 (423) 233-28-01",
+            "+7 (423) 244-71-41",
+            "+7 (423) 292-10-58"
+        ],
+        "item_address": [
+            "район \"Столетие\", ул. Фирсова, 6",
+            "район \"64, 71 микрорайоны\", ул. Ладыгина, 5"
+        ],
+        "item_site": "http://www.stom-adonis.ru"
+    },
+    {
+        "item_name": "Вериншен",
+        "item_url": "https://www.vl.ru/verinshen-ooo",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 233-70-70",
+            "+7 984 197-91-17"
+        ],
+        "item_address": [
+            "район \"Столетие\", ул. Гамарника, 21"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Апекс-Дент",
+        "item_url": "https://www.vl.ru/apex-dent",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 297-24-72",
+            "+7 (423) 236-07-40"
+        ],
+        "item_address": [
+            "район \"Столетие\", ул. Уральская, 6"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Dental",
+        "item_url": "https://www.vl.ru/dental-stomatologiya-kompanii-rik",
+        "item_email": "stomdental@list.ru",
+        "item_phone": [
+            "+7 (423-37) 4-90-97",
+            "+7 924 003-44-33"
+        ],
+        "item_address": [
+            "Артём, ул. Фрунзе, 60"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Улыбка",
+        "item_url": "https://www.vl.ru/ooo-ulybka",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423) 254-73-75",
+            "+7 (423) 248-84-29"
+        ],
+        "item_address": [
+            "район \"Трудовое\", ул. Порт-Артурская, 25"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "Денталлюкс Сервис",
+        "item_url": "https://www.vl.ru/dentallyuks-servis-vse-vidy-stomatologicheskih-u",
+        "item_email": "dls96@mail.ru",
+        "item_phone": [
+            "+7 (423) 220-49-89",
+            "+7 (423) 220-49-95",
+            "+7 984 145-63-93",
+            "+7 924 001-93-96"
+        ],
+        "item_address": [
+            "район \"Гайдамак\", ул. Светланская, 179"
+        ],
+        "item_site": "http://www.dentallux-vl.ru"
+    },
+    {
+        "item_name": "Профессорская клиника Едранова",
+        "item_url": "https://www.vl.ru/doktor-edranov",
+        "item_email": "manager@edranov.ru",
+        "item_phone": [
+            "+7 908 446-93-33",
+            "+7 (423) 296-93-33"
+        ],
+        "item_address": [
+            "район \"Первая речка\", пр-т Океанский, 48А"
+        ],
+        "item_site": "http://edranov.ru"
+    },
+    {
+        "item_name": "Dr.Smile",
+        "item_url": "https://www.vl.ru/dr-smile",
+        "item_email": "dr.smile21@mail.ru",
+        "item_phone": [
+            "+7 (423) 221-21-01"
+        ],
+        "item_address": [
+            "район \"Трудовая\", ул. 50 лет ВЛКСМ, 21"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Колибри",
+        "item_url": "https://www.vl.ru/kolibri-stm",
+        "item_email": "stom-kolibri@mail.ru",
+        "item_phone": [
+            "+7 914 731-50-72",
+            "+7 (423) 209-24-20",
+            "+7 984 199-24-20"
+        ],
+        "item_address": [
+            "район \"Трудовая\", ул. 50 лет ВЛКСМ, 24/1"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Oralprofi",
+        "item_url": "https://www.vl.ru/oralprofi",
+        "item_email": "oralprofi@mail.ru",
+        "item_phone": [
+            "+7 967 958-78-57",
+            "+7 967 958-74-32"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Некрасовская, 36А"
+        ],
+        "item_site": "http://oralprofi.ru"
+    },
+    {
+        "item_name": "Тридент",
+        "item_url": "https://www.vl.ru/trident-ooo1",
+        "item_email": "dent-design@yandex.ru",
+        "item_phone": [
+            "+7 (423) 228-28-13",
+            "+7 951 029-40-14"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Калинина, 283А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "ГалаДентис",
+        "item_url": "https://www.vl.ru/galadentis",
+        "item_email": "galadentis@mail.ru",
+        "item_phone": [
+            "+7 (423) 236-69-92",
+            "+7 (423) 255-89-49"
+        ],
+        "item_address": [
+            "район \"Столетие\", ул. Нахимова, 1"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Proзубы",
+        "item_url": "https://www.vl.ru/prozuby",
+        "item_email": "prozubivl@gmail.com",
+        "item_phone": [
+            "+7 924 007-91-76"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Захарова, 5"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Элиз",
+        "item_url": "https://www.vl.ru/stomatologiya-eliz",
+        "item_email": "",
+        "item_phone": [
+            "+7 (423-37) 3-52-65"
+        ],
+        "item_address": [
+            "Артём, ул. Фрунзе, 14"
+        ],
+        "item_site": ""
+    },
+    {
+        "item_name": "П.Е.Р.С.И.К.",
+        "item_url": "https://www.vl.ru/p.e.r.s.i.k",
+        "item_email": "p.e.r.s.i.k.2011@mail.ru",
+        "item_phone": [
+            "+7 (423) 236-73-28",
+            "+7 950 296-00-85"
+        ],
+        "item_address": [
+            "район \"Столетие\", ул. Овчинникова, 6"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Дентал-Экспресс ДВ",
+        "item_url": "https://www.vl.ru/dental-express-dv",
+        "item_email": "info@dental-express.ru",
+        "item_phone": [
+            "+7 (423) 244-73-78",
+            "+7 (423) 244-07-03",
+            "+7 (423) 244-73-87",
+            "+7 (423) 243-93-91"
+        ],
+        "item_address": [
+            "район \"Баляева\", ул. Котельникова, 8А"
+        ],
+        "item_site": "http://dental-express.ru"
+    },
+    {
+        "item_name": "Краевой центр восстановительной медицины и реабилитации",
+        "item_url": "https://www.vl.ru/altus",
+        "item_email": "cvlds@rambler.ru",
+        "item_phone": [
+            "+7 (423) 231-47-12 , регистратура",
+            "+7 964 441-88-82 , зав. центром",
+            "+7 (423) 231-02-01 , зав. по социальной реабилитации",
+            "+7 (423) 232-41-58 , зав. по лечебной части"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Кирова, 66"
+        ],
+        "item_site": "http://www.kkcsvmp.ru"
+    },
+    {
+        "item_name": "РЖД-Медицина",
+        "item_url": "https://www.vl.ru/rzhd-medicina-vl",
+        "item_email": "nuzvs@mail.ru",
+        "item_phone": [
+            "+7 (423) 245-09-22, call-центр",
+            "+7 800 234-34-34, единая справочная",
+            "+7 (423) 245-16-10 , регистратура",
+            "+7 (423) 224-55-58 , стоматология",
+            "+7 (423) 224-57-76 , касса",
+            "+7 924 000-56-84 , каб. компьютерной томографии",
+            "+7 (423) 224-59-28 , регистратура",
+            "+7 (423) 251-06-21 , администратор",
+            "+7 (423) 252-02-79 , экономический отдел",
+            "+7 (423) 224-82-27 , приемная гл. врача",
+            "+7 (423) 224-83-32 , приемное отделение",
+            "+7 (423) 224-77-90 , кабинет УЗИ",
+            "+7 (423) 224-77-86 , отделение анестезии и реанимации",
+            "+7 (423) 224-86-56 , рентгенотделение",
+            "+7 (423) 224-77-69 , физиостацинар",
+            "+7 (423) 224-82-44 , отделение функциональной диагностики",
+            "+7 (423) 224-84-44 , гинекологическое отделение",
+            "+7 (423) 224-84-16 , неврологическое отделение",
+            "+7 (423) 224-82-63 , эндоскопическое отделение",
+            "+7 (423) 224-82-93 , хирургическое отделение",
+            "+7 (423) 224-84-82 , кардиологическое отделение",
+            "+7 (423) 224-77-66 , урологическое отделение",
+            "+7 (423) 200-29-32 , отделение МРТ",
+            "+7 (423) 224-83-28 , отделение МРТ"
+        ],
+        "item_address": [
+            "район \"Некрасовская\", ул. Круговая 2-я, 10А",
+            "район \"Эгершельд\", ул. Верхнепортовая, 25"
+        ],
+        "item_site": "http://www.zdclinic.ru"
+    },
+    {
+        "item_name": "Владивостокская поликлиника №1",
+        "item_url": "https://www.vl.ru/centr-vakcinoprofilaktiki-gorodskoj-muz",
+        "item_email": "vld_pol1@mail.ru",
+        "item_phone": [
+            "+7 (423) 222-11-18, колл-центр",
+            "+7 (423) 245-15-36, колл-центр",
+            "+7 (423) 240-63-86, колл-центр",
+            "+7 (423) 240-79-11, колл-центр",
+            "+7 (423) 240-79-27, колл-центр",
+            "+7 (423) 240-79-34, доб. 133 горячая линия по COVID-19",
+            "+7 (423) 240-79-34, доб. 201, 202, 217 горячая линия по телефону АИЦ",
+            "+7 (423) 245-14-59 , доб. 501 заведующий терапевтическим отделением №6",
+            "+7 (423) 245-14-59 , доб. 501 заведующий терапевтическим отделением №6",
+            "+7 (423) 245-14-59 , доб. 516, 518 заведующий стоматологии",
+            "+7 (423) 226-01-79 , доб. 301 заведующий терапевтическим отделением №5",
+            "+7 (423) 222-81-72 , доб. 333 заведующий отделением проф. осмотров №2",
+            "+7 (423) 226-40-32 , доб. 207 заведующий терапевтическим отделением №4",
+            "+7 (423) 226-40-32 , доб. 214 заведующий отделением первичной специализированной медицинской помощи №2",
+            "+7 (423) 226-40-32 , доб. 150, 202 Заведующий ЦАОП",
+            "+7 (423) 222-11-07 , доб. 800 заведующий отделением восстановительного лечения №2"
+        ],
+        "item_address": [
+            "район \"Баляева\", ул. Котельникова, 10",
+            "район \"Некрасовская\", пр-т Красного Знамени, 47",
+            "район \"Некрасовская\", ул. Некрасовская, 46",
+            "район \"Некрасовская\", ул. Некрасовская, 52",
+            "район \"о. Русский\", ул. Экипажная (о. Русский), 24",
+            "район \"Первая речка\", ул. Комсомольская, 7",
+            "район \"По-ов. Песчанный\", ул. Строительная (с. Береговое), 3",
+            "район \"Центр\", пер. Почтовый, 9",
+            "район \"Центр\", пр-т Океанский, 35",
+            "район \"Центр\", ул. Пушкинская, 55",
+            "",
+            ""
+        ],
+        "item_site": "http://vlcpol1.ru"
+    },
+    {
+        "item_name": "Нэомед-Плюс",
+        "item_url": "https://www.vl.ru/art-neomed-plyus",
+        "item_email": "neomed1991@mail.ru",
+        "item_phone": [
+            "+7 (423-37) 4-78-04",
+            "+7 924 131-72-72"
+        ],
+        "item_address": [
+            "Артём, ул. Кирова, 47"
+        ],
+        "item_site": "http://www.neomed-plus.ru"
+    },
+    {
+        "item_name": "Денс-ДВ",
+        "item_url": "https://www.vl.ru/dens-dv-ooo",
+        "item_email": "densdv42@gmail.com",
+        "item_phone": [
+            "+7 (423) 222-99-49"
+        ],
+        "item_address": [
+            "район \"Центр\", ул. Светланская, 111А"
+        ],
+        "item_site": null
+    },
+    {
+        "item_name": "Maximum",
+        "item_url": "https://www.vl.ru/maximumdv",
+        "item_email": "maximumdent@mail.ru",
+        "item_phone": [
+            "+7 984 198-77-71",
+            "+7 914 975-88-56"
+        ],
+        "item_address": [
+            "район \"Чуркин\", ул. Березовая, 5"
+        ],
+        "item_site": "http://www.maximumshop.ru"
+    },
+    {
+        "item_name": "Владивостокская поликлиника №9",
+        "item_url": "https://www.vl.ru/poliklinika-nomer-9-gorshkova",
+        "item_email": "vladpolik9@mail.ru",
+        "item_phone": [
+            "+7 (423) 278-84-40, регистратура",
+            "+7 (423) 231-61-31, регистратура",
+            "+7 (423) 231-92-43, регистратура",
+            "+7 (423) 270-76-19 , дежурный администратор",
+            "+7 (423) 270-76-20 , дежурный администратор",
+            "+7 (423) 270-76-05 , дежурный администратор",
+            "+7 (423) 270-76-17 , дежурный администратор",
+            "+7 (423) 238-06-51 , регистратура",
+            "+7 (423) 238-06-45 , заведующая"
+        ],
+        "item_address": [
+            "район \"Вторая речка\", ул. Давыдова, 3",
+            "район \"Снеговая падь\", ул. Адмирала Горшкова, 3",
+            "район \"Столетие\", ул. Вострецова, 4",
+            "район \"Столетие\", ул. Гамарника, 21",
+            "район \"Трудовое\", ул. Энгельса, 7",
+            "район \"Океанская\", ул. Первая, 4"
+        ],
+        "item_site": "http://www.vladpol-9.ru"
+    }
+]
